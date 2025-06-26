@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kumamebis Gemechu
 - 👀 I’m interested in Monetary Policy Surprises and Financial Market
-- 🌱 I’m currently learning PhD in Applied Economics
+- 🌱 I got my PhD in Applied Economics
 - 💞️ I’m looking to collaborate on textual data alalysis, sentiment analysis, FOMCS meeting, corporate risk and Bank industry risks related projects
 - 📫 How to reach me? kumaakof2014@gmail.com
 
